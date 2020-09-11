@@ -1,2 +1,2 @@
-# JogodaVela
-Jogo da velha
+# JogodaVelha
+Jogo da Velha
